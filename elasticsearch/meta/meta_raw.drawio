@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T08:18:08.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="d0xO2iOhSFnDi_iHtr28" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T08:18:47.693Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="8hTMl4ZnFEeCU7jhx30H" version="20.4.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -141,7 +141,7 @@
           <mxGeometry x="690" y="1540" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AwmB5CsNsaKVvRhN-XGT-45" value="deleteIndices&#xa;removeIndices&#xa;updateIndices&#xa;removeShards&#xa;createIndices&#xa;createOrUpdateShards" style="shape=note;align=left" vertex="1" parent="1">
-          <mxGeometry x="870" y="1410.17" width="130" height="129.83" as="geometry" />
+          <mxGeometry x="680" y="1600" width="130" height="129.83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
