@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-11-01T03:45:29.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Lfr0bmIhih5s71BKgodv" version="20.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-01T07:01:52.256Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="GQnKWxsQKkHVS1ilE4xD" version="20.4.2" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-1" value="Master" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="215" y="870" width="100" height="540" as="geometry" />
+          <mxGeometry x="215" y="870" width="100" height="690" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-1" vertex="1">
           <mxGeometry x="45" y="70" width="10" height="130" as="geometry" />
@@ -52,10 +52,10 @@
         <mxCell id="AwmB5CsNsaKVvRhN-XGT-30" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="3nuBFxr9cyL0pnOWT2aG-1">
           <mxGeometry x="45" y="460" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AwmB5CsNsaKVvRhN-XGT-32" value="" style="endArrow=classic;html=1;rounded=0;entryX=-0.4;entryY=0.747;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-6">
+        <mxCell id="AwmB5CsNsaKVvRhN-XGT-32" value="" style="endArrow=classic;html=1;entryX=-0.3;entryY=0.228;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;" edge="1" parent="3nuBFxr9cyL0pnOWT2aG-1" target="3nuBFxr9cyL0pnOWT2aG-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="55" y="480" as="sourcePoint" />
-            <mxPoint x="215" y="480" as="targetPoint" />
+            <mxPoint x="385" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AwmB5CsNsaKVvRhN-XGT-33" value="publish" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="AwmB5CsNsaKVvRhN-XGT-32">
@@ -64,10 +64,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-5" value="Data " style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" parent="1" vertex="1">
-          <mxGeometry x="585" y="870" width="100" height="540" as="geometry" />
+          <mxGeometry x="585" y="870" width="100" height="690" as="geometry" />
         </mxCell>
         <mxCell id="3nuBFxr9cyL0pnOWT2aG-6" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" parent="3nuBFxr9cyL0pnOWT2aG-5" vertex="1">
-          <mxGeometry x="45" y="360" width="10" height="160" as="geometry" />
+          <mxGeometry x="45" y="460" width="10" height="90" as="geometry" />
         </mxCell>
         <mxCell id="AwmB5CsNsaKVvRhN-XGT-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="150" y="70" width="360" height="220" as="geometry" />
@@ -87,7 +87,7 @@
         <mxCell id="AwmB5CsNsaKVvRhN-XGT-6" value="IndexShardRoutingTable" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="325" y="135" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AwmB5CsNsaKVvRhN-XGT-13" value="ClusterStateUpdateRequest" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;" edge="1" parent="1">
+        <mxCell id="AwmB5CsNsaKVvRhN-XGT-13" value="ClusterStateUpdateRequest" style="verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;shadow=0;strokeWidth=1;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="60" y="960" as="sourcePoint" />
             <mxPoint x="260" y="960" as="targetPoint" />
@@ -105,8 +105,8 @@
         <mxCell id="AwmB5CsNsaKVvRhN-XGT-29" value="4、全量对比集群状态，产生Diff" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="1280" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AwmB5CsNsaKVvRhN-XGT-35" value="创建索引、删除索引&#xa;新增节点、删除节点&#xa;集群health&#xa;集群配置变更&#xa;索引配置变更" style="shape=note;align=left" vertex="1" parent="1">
-          <mxGeometry x="50.00299382716048" y="1030.0036111111112" width="120.02700617283949" height="109.82638888888889" as="geometry" />
+        <mxCell id="AwmB5CsNsaKVvRhN-XGT-35" value="创建索引&#xa;删除索引&#xa;新增节点&#xa;删除节点&#xa;集群health&#xa;集群配置变更&#xa;索引配置变更&#xa;..." style="shape=note;align=left" vertex="1" parent="1">
+          <mxGeometry x="50" y="1030" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
