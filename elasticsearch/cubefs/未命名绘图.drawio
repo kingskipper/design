@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T09:52:55.853Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="Ug5H4bVyg7XSOMAFmDMF" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-18T10:00:40.684Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="9cR9cEpVs5xWjqkAL13G" version="20.5.3" type="github">
   <diagram id="xo_CiO_Yl4N48_bS63rh" name="第 1 页">
     <mxGraphModel dx="946" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -79,58 +79,67 @@
           <mxGeometry x="385" y="614" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="578" y="587" width="172" height="106" as="geometry" />
+          <mxGeometry x="139" y="725" width="172" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-8" value="analysis-hanlp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="614" y="584" width="89" height="30" as="geometry" />
+          <mxGeometry x="177" y="725" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-9" value="AnalysisPlugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="602" y="616" width="120" height="60" as="geometry" />
+          <mxGeometry x="163" y="754" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-10" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="138" y="809" width="322" height="106" as="geometry" />
+          <mxGeometry x="131" y="928" width="322" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-11" value="repository-s3" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="261" y="806" width="81" height="30" as="geometry" />
+          <mxGeometry x="254" y="925" width="81" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-12" value="RepositoryPlugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="162" y="838" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="957" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-13" value="ReloadalePlugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="305" y="959" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-14" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="138" y="941" width="322" height="106" as="geometry" />
+          <mxGeometry x="131" y="1060" width="322" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-15" value="repository-zure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="253" y="942" width="98" height="30" as="geometry" />
+          <mxGeometry x="246" y="1061" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-16" value="RepositoryPlugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="162" y="970" width="120" height="60" as="geometry" />
+          <mxGeometry x="155" y="1089" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-17" value="ReloadalePlugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="312" y="972" width="120" height="60" as="geometry" />
+          <mxGeometry x="305" y="1091" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_94Ime-4hOuovqoKaUaG-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="500" y="947" width="322" height="106" as="geometry" />
+        <mxCell id="_94Ime-4hOuovqoKaUaG-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="493" y="1066" width="322" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-19" value="RepositoryPlugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="524" y="976" width="120" height="60" as="geometry" />
+          <mxGeometry x="517" y="1095" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-20" value="ReloadalePlugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="674" y="978" width="120" height="60" as="geometry" />
+          <mxGeometry x="667" y="1097" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-21" value="repository-cube" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="607" y="950" width="98" height="30" as="geometry" />
+          <mxGeometry x="600" y="1069" width="98" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="509" y="809" width="172" height="106" as="geometry" />
+          <mxGeometry x="502" y="928" width="172" height="106" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-23" value="repository-hdfs" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="543" y="806" width="93" height="30" as="geometry" />
+          <mxGeometry x="536" y="925" width="93" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_94Ime-4hOuovqoKaUaG-24" value="RepositoryPlugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="533" y="838" width="120" height="60" as="geometry" />
+          <mxGeometry x="526" y="957" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_94Ime-4hOuovqoKaUaG-25" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="359" y="727" width="172" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="_94Ime-4hOuovqoKaUaG-26" value="dynamic-synonym" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="397" y="727" width="103" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_94Ime-4hOuovqoKaUaG-27" value="AnalysisPlugin" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="383" y="756" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
