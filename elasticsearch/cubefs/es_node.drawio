@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T12:04:25.459Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="IKmkQidcVbYjY3kLCMhF" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T07:14:42.496Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="oL3-6eQ-PBNGL64ph-0A" version="20.5.3" type="github">
   <diagram id="79OrFG6X0p94ZRUfZklV" name="第 1 页">
-    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="614" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,13 +172,13 @@
         <mxCell id="2ePsRlysvZnuFBVN_MaM-52" value="读写请求转发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="840" y="386" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2ePsRlysvZnuFBVN_MaM-53" value="初始化复制任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2ePsRlysvZnuFBVN_MaM-53" value="初始化任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ePsRlysvZnuFBVN_MaM-54" value="初始化全量复制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2ePsRlysvZnuFBVN_MaM-54" value="全量复制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2ePsRlysvZnuFBVN_MaM-55" value="循环增量复制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2ePsRlysvZnuFBVN_MaM-55" value="增量复制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2ePsRlysvZnuFBVN_MaM-56" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
