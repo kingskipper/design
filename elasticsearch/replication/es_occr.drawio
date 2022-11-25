@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T06:54:44.154Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="1_UqphgEPFyVv3I2W_jd" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T06:55:50.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vDsY4N7JON_VzCoXzgsx" version="20.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1783" dy="993" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -89,7 +89,7 @@
         <mxCell id="Iq0vz-vZi5H4jPWASZ7c-9" value="设置元数据，执行恢复阶段，通知远程集群启动文件快照" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="690" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Iq0vz-vZi5H4jPWASZ7c-10" value="恢复远程文件块，更新任务状态，进入增量复制阶段" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Iq0vz-vZi5H4jPWASZ7c-10" value="恢复远程文件块，更新任务状态，进入增量复制阶段" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="690" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iq0vz-vZi5H4jPWASZ7c-12" value="同步索引分片文件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -116,7 +116,7 @@
             <mxPoint x="880.7106781186548" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iq0vz-vZi5H4jPWASZ7c-19" value="锁住本地恢复后的索引，创建索引分片复制任务，请求分片的操作快照" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Iq0vz-vZi5H4jPWASZ7c-19" value="锁住本地恢复后的索引，创建索引分片复制任务，请求分片的操作快照" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="690" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iq0vz-vZi5H4jPWASZ7c-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" edge="1">
@@ -134,7 +134,7 @@
             <mxPoint x="810" y="749.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iq0vz-vZi5H4jPWASZ7c-25" value="根据Seqno区间拉取增量操作，追平远程分片" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Iq0vz-vZi5H4jPWASZ7c-25" value="根据Seqno区间拉取增量操作，追平远程分片" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="690" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iq0vz-vZi5H4jPWASZ7c-27" value="同步translog" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
