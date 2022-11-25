@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-25T06:55:50.614Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="vDsY4N7JON_VzCoXzgsx" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-25T06:57:23.056Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="dq7MGNKRVR60hHdjA1rl" version="20.5.3" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="1783" dy="993" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -86,7 +86,7 @@
             <mxPoint x="690" y="489.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Iq0vz-vZi5H4jPWASZ7c-9" value="设置元数据，执行恢复阶段，通知远程集群启动文件快照" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Iq0vz-vZi5H4jPWASZ7c-9" value="设置元数据，执行恢复阶段，通知远程集群启动文件快照" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="690" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Iq0vz-vZi5H4jPWASZ7c-10" value="恢复远程文件块，更新任务状态，进入增量复制阶段" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
