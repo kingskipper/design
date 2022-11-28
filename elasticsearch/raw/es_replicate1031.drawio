@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T09:07:50.864Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="KEYa33ovTdyuIa_T7qvc" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T09:09:15.841Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="9kXvNYk_-kmGPJiTbYTY" version="20.5.3" type="github">
   <diagram id="9nTsik4AKyD2Oay4WIvi" name="第 1 页">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="72kHpZyUayTUPH2MxQYt-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1365" width="690" height="305" as="geometry" />
+          <mxGeometry x="140" y="1390" width="690" height="280" as="geometry" />
         </mxCell>
         <mxCell id="72kHpZyUayTUPH2MxQYt-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="170" width="680" height="200" as="geometry" />
@@ -313,7 +313,7 @@
           <mxGeometry x="693" y="1500" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="72kHpZyUayTUPH2MxQYt-31" value="Shard Recovery" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="188" y="1380" width="60" height="30" as="geometry" />
+          <mxGeometry x="188" y="1410" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72kHpZyUayTUPH2MxQYt-32" value="Master" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="1495" width="60" height="30" as="geometry" />
@@ -324,8 +324,8 @@
         <mxCell id="72kHpZyUayTUPH2MxQYt-36" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#000000;strokeWidth=2;" edge="1" parent="1" source="72kHpZyUayTUPH2MxQYt-34" target="72kHpZyUayTUPH2MxQYt-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="678" y="1410" />
-              <mxPoint x="268" y="1410" />
+              <mxPoint x="678" y="1430" />
+              <mxPoint x="268" y="1430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -343,13 +343,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="72kHpZyUayTUPH2MxQYt-39" value="Create Shard" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="1630" width="100" height="30" as="geometry" />
+          <mxGeometry x="360" y="1610" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72kHpZyUayTUPH2MxQYt-40" value="Shard In Sync&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="413" y="1370" width="100" height="30" as="geometry" />
+          <mxGeometry x="413" y="1400" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="72kHpZyUayTUPH2MxQYt-41" value="Peer Recovery" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="1">
-          <mxGeometry x="500" y="1570" width="95" height="30" as="geometry" />
+          <mxGeometry x="500" y="1560" width="95" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
