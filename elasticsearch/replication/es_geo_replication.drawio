@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T09:03:12.642Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="ZXxRZP8CdyRk_E18pOCV" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T09:19:14.716Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="g5HgLjpaNyP_e2o_yDRD" version="21.1.1" type="github">
   <diagram id="AtrstPY0V7HxoUcE3dy3" name="第 1 页">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -499,6 +499,48 @@
         </mxCell>
         <mxCell id="CKTPbQGQrNcC_k1f2yZR-40" value="ReplicateTask" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="727" y="2470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk5F-5nG-Ed0SxYbWAs5-2" value="集群复制任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="202" y="2720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk5F-5nG-Ed0SxYbWAs5-3" value="索引复制任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="197" y="2900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk5F-5nG-Ed0SxYbWAs5-4" value="分片复制任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="439" y="2640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk5F-5nG-Ed0SxYbWAs5-8" value="分片复制任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="439" y="2740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk5F-5nG-Ed0SxYbWAs5-9" value="分片复制任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="439" y="2860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk5F-5nG-Ed0SxYbWAs5-10" value="分片复制任务" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="439" y="2960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vk5F-5nG-Ed0SxYbWAs5-11" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="2730" as="sourcePoint" />
+            <mxPoint x="430" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk5F-5nG-Ed0SxYbWAs5-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="2760" as="sourcePoint" />
+            <mxPoint x="430" y="2770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk5F-5nG-Ed0SxYbWAs5-13" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="2920" as="sourcePoint" />
+            <mxPoint x="430" y="2890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vk5F-5nG-Ed0SxYbWAs5-14" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="344" y="2940" as="sourcePoint" />
+            <mxPoint x="430" y="2990" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
