@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-27T09:01:10.398Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="KSsCkq5gyPFJvQMfvRdK" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-27T09:02:12.590Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="bBtMSOVxfunPy-YRj9zz" version="21.1.1" type="github">
   <diagram id="AtrstPY0V7HxoUcE3dy3" name="第 1 页">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -150,9 +150,10 @@
         <mxCell id="0O9efqCw_1QqfNNBije2-36" value="Follower&lt;br&gt;Cluster" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="777" y="870" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0O9efqCw_1QqfNNBije2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" target="0O9efqCw_1QqfNNBije2-28" edge="1">
+        <mxCell id="0O9efqCw_1QqfNNBije2-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="492" y="970" as="sourcePoint" />
+            <mxPoint x="560" y="970" as="sourcePoint" />
+            <mxPoint x="630" y="970" as="targetPoint" />
             <Array as="points">
               <mxPoint x="600" y="970" />
               <mxPoint x="600" y="970" />
@@ -327,7 +328,7 @@
         <mxCell id="0O9efqCw_1QqfNNBije2-81" value="Follower" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="889" y="560" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0O9efqCw_1QqfNNBije2-82" value="Push" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
+        <mxCell id="0O9efqCw_1QqfNNBije2-82" value="Pull" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="624" y="600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0O9efqCw_1QqfNNBije2-83" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
